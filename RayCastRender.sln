@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RayCastRender", "RayCastRender\RayCastRender.csproj", "{A7979A36-18A7-46A7-9DB6-6F4FB0DAA98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7979A36-18A7-46A7-9DB6-6F4FB0DAA98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7979A36-18A7-46A7-9DB6-6F4FB0DAA98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7979A36-18A7-46A7-9DB6-6F4FB0DAA98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7979A36-18A7-46A7-9DB6-6F4FB0DAA98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
