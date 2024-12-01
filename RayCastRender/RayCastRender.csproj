@@ -11,4 +11,10 @@
       <PackageReference Include="Raylib-cs" Version="6.1.1" />
     </ItemGroup>
 
+    <ItemGroup>
+    <None Update="Images\**">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    </ItemGroup>
+
 </Project>
